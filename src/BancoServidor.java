@@ -3,7 +3,7 @@ import java.net.*;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Banco {
+public class BancoServidor {
 
     private static Map<String, Double> contas = new HashMap<>();
 
