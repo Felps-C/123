@@ -28,6 +28,7 @@ public class UsuarioCliente {
 
                 double valor = 0.0;
 
+
                 if (opcao == 1) {
                 } else if (opcao == 2) {
                     System.out.print("Digite o valor do depósito (use '.' para centavos): R$ ");
